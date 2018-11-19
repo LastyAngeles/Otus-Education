@@ -55,7 +55,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>Main</mainClass>
+                            <mainClass>com.education.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
