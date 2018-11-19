@@ -55,7 +55,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>Main</mainClass>
+                            <mainClass>com.education.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -84,7 +84,7 @@
                     <proguardVersion>6.0.2</proguardVersion>
                     <options>
                         <option>
-                            -keep public class com.education.project01.Main{public static void
+                            -keep public class com.education.Main{public static void
                             main(java.lang.String[]);}
                             -dontwarn
                         </option>
